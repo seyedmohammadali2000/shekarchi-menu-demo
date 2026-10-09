@@ -1,4 +1,4 @@
 :HL["/shekarchi-menu-demo/_next/static/media/365bfb1295ab08df-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/shekarchi-menu-demo/_next/static/css/ba283ffd5e95bbc9.css","style"]
+:HL["/shekarchi-menu-demo/_next/static/css/0e70b3ecbb864d80.css","style"]
 :HL["/shekarchi-menu-demo/_next/static/css/072c37f4cee003bb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"2grOKSPfyg__KTj2KujoV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"v9SiXP25ICGLNPOX9lVGL"}
