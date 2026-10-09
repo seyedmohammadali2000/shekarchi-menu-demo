@@ -1,23 +1,26 @@
 1:"$Sreact.fragment"
-2:I[200,["422","static/chunks/422-4d9904b380b9d17d.js","72","static/chunks/72-de747ab1a750c1ea.js","974","static/chunks/app/page-85a636844d612155.js"],"WelcomeVideo"]
-3:I[484,[],"OutletBoundary"]
-4:"$Sreact.suspense"
-8:I[484,[],"ViewportBoundary"]
-9:I[484,[],"MetadataBoundary"]
-a:I[6869,[],"IconMark"]
-c:I[7121,[],""]
-d:I[7267,["39","static/chunks/app/error-cf93a81ce1d188e7.js"],"default"]
-e:I[4581,[],""]
-f:I[209,["422","static/chunks/422-4d9904b380b9d17d.js","345","static/chunks/app/not-found-41d9d7c3e1ef48fc.js"],"default"]
-10:I[8500,["422","static/chunks/422-4d9904b380b9d17d.js","345","static/chunks/app/not-found-41d9d7c3e1ef48fc.js"],""]
+2:I[209,["422","static/chunks/422-4d9904b380b9d17d.js","72","static/chunks/72-de747ab1a750c1ea.js","974","static/chunks/app/page-cda2c131971afdc6.js"],"default"]
+3:I[1186,["422","static/chunks/422-4d9904b380b9d17d.js","72","static/chunks/72-de747ab1a750c1ea.js","974","static/chunks/app/page-cda2c131971afdc6.js"],"BrandLogo"]
+4:I[8500,["422","static/chunks/422-4d9904b380b9d17d.js","72","static/chunks/72-de747ab1a750c1ea.js","974","static/chunks/app/page-cda2c131971afdc6.js"],""]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[484,[],"ViewportBoundary"]
+b:I[484,[],"MetadataBoundary"]
+c:I[6869,[],"IconMark"]
+e:I[7121,[],""]
+f:I[7267,["39","static/chunks/app/error-cf93a81ce1d188e7.js"],"default"]
+10:I[4581,[],""]
+:HL["/shekarchi-menu-demo/_next/static/css/072c37f4cee003bb.css","style"]
 :HL["/shekarchi-menu-demo/_next/static/css/03cbe09e2b0de561.css","style"]
-7:X
-0:{"buildId":"qulRBvr2PfFOotrndw0ZK","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"كافيه الشكرچي | حيّاكم الله"}],["$","meta","1",{"name":"description","content":"كافيه الشكرچي — الجودة سرّ نجاحنا. شوف المنيو واستكشف مشروباتنا والحلويات."}],["$","link","2",{"rel":"icon","href":"/shekarchi-menu-demo/favicon.svg"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/shekarchi-menu-demo/_next/static/css/03cbe09e2b0de561.css","precedence":"next"}]],["$","html",null,{"lang":"ar-IQ","dir":"rtl","data-scroll-behavior":"smooth","children":["$","body",null,{"className":"__variable_4bddf3","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"انتقل للمحتوى"}],["$","$Lc",null,{"parallelRouterKey":"children","error":"$d","errorStyles":[],"errorScripts":null,"template":["$","$Le",null,{}],"notFound":[["$","main",null,{"id":"main-content","className":"page-shell empty-state not-found","children":[["$","$Lf",null,{"icon":{"name":"utensils","size":24,"node":[["path",{"d":"M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2","key":"cjf0a3"}],["path",{"d":"M7 2v20","key":"1473qp"}],["path",{"d":"M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7","key":"j28e5"}]],"aliases":["fork-knife"]},"size":42}],["$","span",null,{"className":"eyebrow","children":"٤٠٤"}],["$","h1",null,{"children":"هالصنف مو متوفر بالمنيو"}],["$","p",null,{"children":"يمكن الرابط تغيّر. تگدر ترجع وتشوف باقي المنيو."}],["$","$L10",null,{"className":"primary-link","href":"/menu","children":"الرجوع للمنيو"}]]}],[]]}]]}]}]]}],"isPartial":"$@11","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
-5:null
-7:300
-13:true
-7:C
-12:0
-b:"$undefined"
-11:"$undefined"
-6:"$undefined"
+9:X
+0:{"buildId":"rjt_urVHINkRJGSDY83OT","data":[{"rsc":["$","$1","c",{"children":[["$","main",null,{"id":"main-content","className":"Welcome_page__Pu8fg","data-testid":"welcome","children":[["$","div",null,{"className":"Welcome_corner____NRl","aria-hidden":"true"}],["$","section",null,{"className":"Welcome_content__F1k_f","aria-labelledby":"welcome-title","children":[["$","div",null,{"className":"Welcome_emblem__1GDmC","data-testid":"welcome-emblem","children":[["$","div",null,{"className":"Welcome_halo__gztay","aria-hidden":"true"}],["$","span",null,{"className":"Welcome_orbit__JgHG5","aria-hidden":"true"}],["$","span",null,{"className":"Welcome_outerOrbit__EZnqr","aria-hidden":"true"}],["$","span",null,{"className":"Welcome_sparkle__tG_8l","aria-hidden":"true","children":["$","$L2",null,{"icon":{"name":"sparkles","size":24,"node":[["path",{"d":"M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z","key":"1s2grr"}],["path",{"d":"M20 2v4","key":"1rf3ol"}],["path",{"d":"M22 4h-4","key":"gwowj6"}],["circle",{"cx":"4","cy":"20","r":"2","key":"6kqj1y"}]],"aliases":["stars"]},"size":20,"strokeWidth":1.3}]}],["$","$L3",null,{"className":"Welcome_logo___gdlY"}]]}],["$","p",null,{"className":"Welcome_eyebrow__Yw_Kl","children":"أهلاً وسهلاً بيكم"}],["$","h1",null,{"id":"welcome-title","children":"كافيه الشكرچي"}],["$","p",null,{"className":"Welcome_slogan__YLoO1","children":"الجودة سرّ نجاحنا"}],["$","span",null,{"className":"Welcome_divider__Akjxy","aria-hidden":"true","children":["$","i",null,{}]}],["$","p",null,{"className":"Welcome_description__Pkny_","children":"تفضّلوا، شوفوا المنيو واختاروا اللي يعجبكم."}],["$","$L4",null,{"href":"/menu","className":"Welcome_enter__jenvP","children":["شوف المنيو",["$","$L2",null,{"icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"size":23,"aria-hidden":"true"}]]}],["$","p",null,{"className":"Welcome_address__ZFupi","children":[["$","$L2",null,{"icon":{"name":"map-pin","size":24,"node":[["path",{"d":"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0","key":"1r0f0z"}],["circle",{"cx":"12","cy":"10","r":"3","key":"ilqhr7"}]]},"size":18,"aria-hidden":"true"}],["$","span",null,{"children":"كربلاء مقابل سيطرة محمد الأمين"}]]}]]}],["$","footer",null,{"className":"Welcome_signoff__IMFA_","children":[["$","span",null,{"aria-hidden":"true"}],"حياكم الله بالشكرچي",["$","span",null,{"aria-hidden":"true"}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/shekarchi-menu-demo/_next/static/css/072c37f4cee003bb.css","precedence":"next"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"كافيه الشكرچي | حيّاكم الله"}],["$","meta","1",{"name":"description","content":"كافيه الشكرچي — الجودة سرّ نجاحنا. شوف المنيو واستكشف مشروباتنا والحلويات."}],["$","link","2",{"rel":"icon","href":"/shekarchi-menu-demo/favicon.svg"}],["$","$Lc","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@d","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/shekarchi-menu-demo/_next/static/css/03cbe09e2b0de561.css","precedence":"next"}]],["$","html",null,{"lang":"ar-IQ","dir":"rtl","data-scroll-behavior":"smooth","children":["$","body",null,{"className":"__variable_4bddf3","children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"انتقل للمحتوى"}],["$","$Le",null,{"parallelRouterKey":"children","error":"$f","errorStyles":[],"errorScripts":null,"template":["$","$L10",null,{}],"notFound":[["$","main",null,{"id":"main-content","className":"page-shell empty-state not-found","children":[["$","$L2",null,{"icon":{"name":"utensils","size":24,"node":[["path",{"d":"M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2","key":"cjf0a3"}],["path",{"d":"M7 2v20","key":"1473qp"}],["path",{"d":"M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7","key":"j28e5"}]],"aliases":["fork-knife"]},"size":42}],["$","span",null,{"className":"eyebrow","children":"٤٠٤"}],["$","h1",null,{"children":"هالصنف مو متوفر بالمنيو"}],"$L11","$L12"]}],[]]}]]}]}]]}],"isPartial":"$@13","staleTime":"$9","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+7:null
+11:["$","p",null,{"children":"يمكن الرابط تغيّر. تگدر ترجع وتشوف باقي المنيو."}]
+12:["$","$L4",null,{"className":"primary-link","href":"/menu","children":"الرجوع للمنيو"}]
+9:300
+15:true
+9:C
+14:0
+d:"$undefined"
+13:"$undefined"
+8:"$undefined"
